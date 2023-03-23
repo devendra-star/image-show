@@ -17,6 +17,17 @@
   width: auto;
 }
 
+.main {
+  margin-top: 105px;
+  text-align: center;
+}
+
+input {
+  font-family: sans-serif;
+  font-size: 416%;
+  border-radius: 15px;
+}
+
 .ui.cards>.card>.content>.header {
   height: 48px;
   overflow: hidden;
